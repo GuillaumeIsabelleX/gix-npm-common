@@ -1,0 +1,31 @@
+{
+  "name": "gix-npm-common",
+  "version": "1.0.0",
+  "description": "@stcgoal Common GIX Node packaging kit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeIsabelleX/gix-npm-common.git"
+  },
+  "keywords": [
+    "gix",
+    "common"
+  ],
+  "author": "Guillaume Isabelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillaumeIsabelleX/gix-npm-common/issues"
+  },
+  "homepage": "https://github.com/GuillaumeIsabelleX/gix-npm-common#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "i": "^0.3.6",
+    "markdown": "^0.5.0",
+    "moment": "^2.22.2",
+    "npm": "^6.4.1",
+    "sleep": "^5.2.3"
+  }
+}
